@@ -1,0 +1,21 @@
+{
+    /* LIVE SASS */
+    "liveSassCompile.settings.formats": [
+      {
+        "format": "compressed",
+        "extensionName": ".css",
+        "savePath": "/styles"
+      }
+    ],
+    "liveSassCompile.settings.autoprefix": [
+    
+      "> 1%",
+      "last 2 versions"
+    ],
+    "liveSassCompile.settings.generateMap": true,
+    "liveSassCompile.settings.excludeList": [
+      ".vscode/**",
+      "css/**"
+    ],
+    "liveSassCompile.settings.showOutputWindow": false,
+  }
